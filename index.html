@@ -90,7 +90,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Elif Nur Demir</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Programmer</strong>
+                            <strong>IU Developer</strong>
                         </h6>
                         
                         
@@ -108,7 +108,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Mehmet Can Sert</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Manager</strong>
+                            <strong>IU Developer/Designer</strong>
                         </h6>
                         
                         
@@ -126,7 +126,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Ali Osman Ünaldı</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Analyst</strong>
+                            <strong>Backend Developer</strong>
                         </h6>
                         
                         
@@ -156,7 +156,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Yüksel Öztürk</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Programmer</strong>
+                            <strong>Backend Developer</strong>
                         </h6>
                         
                         
@@ -174,7 +174,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Bilal Yılmaz</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Manager</strong>
+                            <strong>Tester</strong>
                         </h6>
                         
                         
@@ -191,27 +191,7 @@
 </section>
 
 <section data-bs-version="5.1" class="image4 cid-sMM6ZYE53w" id="image4-n">
-    
-
-    
-
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-6">
-                <div class="image-wrapper">
-                    <img src="assets/images/iphone-x-xs-11-pro-12x-750x1624.png" alt="Mobirise">
-                    <p class="mbr-text mbr-fonts-style mt-2 align-center display-4">Nearest Locations</p>
-                </div>
-            </div>
-            <div class="col-12 col-lg-6">
-                <div class="image-wrapper">
-                    <img src="assets/images/iphone-x-xs-11-pro-22x-750x1624.png" alt="Mobirise">
-                    <p class="mbr-text mbr-fonts-style mt-2 align-center display-4">
-                        Voting Screen</p>
-                </div>
-            </div>
-        </div>
-    </div>
+   
 </section>
 
 <section data-bs-version="5.1" class="footer3 cid-s48P1Icc8J" once="footers" id="footer3-i">
