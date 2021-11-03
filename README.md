@@ -193,7 +193,46 @@
 <section data-bs-version="5.1" class="image4 cid-sMM6ZYE53w" id="image4-n">
    
 </section>
-
+<section data-bs-version="5.1" class="features3 cid-sNIv2MikpB" id="features3-u">
+    
+    
+    <div class="container">
+        <div class="mbr-section-head">
+            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+                <strong>Choose your joy!</strong></h4>
+            
+        </div>
+        <div class="row mt-4">
+            <div class="item features-image сol-12 col-md-6 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img src="assets/images/3-375x812.png" alt="">
+                    </div>
+                    
+                    
+                </div>
+            </div>
+            <div class="item features-image сol-12 col-md-6 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img src="assets/images/1-375x812.png" alt="">
+                    </div>
+                    
+                    
+                </div>
+            </div>
+            <div class="item features-image сol-12 col-md-6 col-lg-4">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <img src="assets/images/2-375x812.png" alt="">
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section data-bs-version="5.1" class="footer3 cid-s48P1Icc8J" once="footers" id="footer3-i">
 
     
