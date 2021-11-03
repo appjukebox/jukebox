@@ -227,11 +227,6 @@
                     
                     
                 </div>
-               <div class="mbr-section-head">
-            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
-                </h4>
-            
-        </div>
             </div>
         </div>
     </div>
