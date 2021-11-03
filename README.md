@@ -206,7 +206,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-4">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/3-375x812.png" alt="">
+                        <img src="assets/images/3.png" alt="">
                     </div>
                     
                     
@@ -215,7 +215,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-4">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/1-375x812.png" alt="">
+                        <img src="assets/images/1.png" alt="">
                     </div>
                     
                     
@@ -224,7 +224,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-4">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/2-375x812.png" alt="">
+                        <img src="assets/images/2.png" alt="">
                     </div>
                     
                     
