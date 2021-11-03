@@ -1,10 +1,11 @@
+
 <!DOCTYPE html>
 <html  >
 <head>
-  <!-- Site made with Mobirise Website Builder v5.4.1, https://mobirise.com -->
+  <!-- Site made with Mobirise Website Builder v5.5.0, https://mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Mobirise v5.4.1, mobirise.com">
+  <meta name="generator" content="Mobirise v5.5.0, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/iconlogo-121x121.png" type="image/x-icon">
   <meta name="description" content="">
@@ -90,7 +91,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Elif Nur Demir</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>IU Developer</strong>
+                            <strong>Programmer</strong>
                         </h6>
                         
                         
@@ -108,7 +109,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Mehmet Can Sert</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>IU Developer/Designer</strong>
+                            <strong>Manager</strong>
                         </h6>
                         
                         
@@ -126,7 +127,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Ali Osman Ünaldı</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Backend Developer</strong>
+                            <strong>Analyst</strong>
                         </h6>
                         
                         
@@ -156,7 +157,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Yüksel Öztürk</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Backend Developer</strong>
+                            <strong>Programmer</strong>
                         </h6>
                         
                         
@@ -174,7 +175,7 @@
                         <h5 class="mbr-section-title card-title mbr-fonts-style align-center m-0 display-5">
                             Bilal Yılmaz</h5>
                         <h6 class="mbr-role mbr-fonts-style align-center mb-3 display-4">
-                            <strong>Tester</strong>
+                            <strong>Manager</strong>
                         </h6>
                         
                         
@@ -190,9 +191,6 @@
     </div>
 </section>
 
-<section data-bs-version="5.1" class="image4 cid-sMM6ZYE53w" id="image4-n">
-   
-</section>
 <section data-bs-version="5.1" class="features3 cid-sNIv2MikpB" id="features3-u">
     
     
@@ -206,7 +204,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-4">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/3.png" alt="">
+                        <img src="assets/images/3-375x812.png" alt="">
                     </div>
                     
                     
@@ -215,7 +213,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-4">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/1.png" alt="">
+                        <img src="assets/images/1-375x812.png" alt="">
                     </div>
                     
                     
@@ -224,7 +222,7 @@
             <div class="item features-image сol-12 col-md-6 col-lg-4">
                 <div class="item-wrapper">
                     <div class="item-img">
-                        <img src="assets/images/2.png" alt="">
+                        <img src="assets/images/2-375x812.png" alt="">
                     </div>
                     
                     
@@ -233,6 +231,7 @@
         </div>
     </div>
 </section>
+
 <section data-bs-version="5.1" class="footer3 cid-s48P1Icc8J" once="footers" id="footer3-i">
 
     
@@ -258,12 +257,12 @@
             </div>
             <div class="row row-copirayt">
                 <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">
-                    © Copyright 2020 Mobirise. All Rights Reserved.
+                    © Copyright 2020 Jukebox. All Rights Reserved.
                 </p>
             </div>
         </div>
     </div>
-</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/z" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;">Mobirise site builder - <a href="https://mobirise.site/n" style="color:#aaa;">Click now</a></p></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
+</section><section style="background-color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;"><a href="https://mobirise.site/a" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a><p style="flex: 0 0 auto; margin:0; padding-right:1rem;"><a href="https://mobirise.site/i" style="color:#aaa;">Designed with Mobirise</a> free builder</p></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/parallax/jarallax.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/theme/js/script.js"></script>  
   
   
 </body>
